@@ -36,7 +36,7 @@ function Dictionary() {
     return false;
   }
 }
-const myMap = new Map();
+
 const myDictionary = new Dictionary();
 
 
