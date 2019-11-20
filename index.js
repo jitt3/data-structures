@@ -60,11 +60,4 @@ function Dictionary() {
 const myMap = new Map();
 const myDictionary = new Dictionary();
 
-myDictionary.set('wizard',"Gandalf");
-myDictionary.set('hobbit',"Frodo");
-
-console.log(myDictionary.delete('hobbit'));
-console.log(myDictionary.getItems());
-
-
 
